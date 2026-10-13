@@ -2,7 +2,7 @@
 
 一个轻快的安卓猫咪逻辑小游戏：每行、每列和每个颜色区域各有一只猫，猫咪之间不能相邻。
 
-[下载最新版 APK](https://github.com/QAbot-zh/miaoge/releases/latest/download/miaoge.apk) · [版本记录](https://github.com/QAbot-zh/miaoge/releases)
+[Gitee 下载页面（国内备用）](https://gitee.com/codezhong/miaoge/releases/latest) · [GitHub 下载最新版 APK](https://github.com/QAbot-zh/miaoge/releases/latest/download/miaoge.apk) · [版本记录](https://github.com/QAbot-zh/miaoge/releases)
 
 ## 运行截图
 
@@ -58,7 +58,7 @@
 
 已安装旧版喵格时，直接覆盖安装即可保留进度与个人成绩；请不要先卸载。
 
-从 1.3 版开始，点击游戏顶部的下载图标进入「应用更新」：检查版本 → 下载更新 → 安装更新。首次通过喵格安装更新时，安卓可能要求允许喵格安装应用；完成设置后返回喵格，点击「继续安装」。每次覆盖安装都需要安卓系统确认。
+从 1.3 版开始，点击游戏顶部的下载图标进入「应用更新」：检查版本 → 下载更新 → 安装更新。1.7 版新增 Gitee 下载页面入口，GitHub 检查或下载失败时可从该页面手动下载安装包并覆盖安装。首次通过喵格安装更新时，安卓可能要求允许喵格安装应用；完成设置后返回喵格，点击「继续安装」。每次覆盖安装都需要安卓系统确认。
 
 新版题库与旧版不同，通关进度单独记录。旧版完成记录归档保留，旧成绩继续保存在花园；未完成的旧题可以继续或重来，完成后可进入新版题库。
 
@@ -76,4 +76,4 @@
 
 本仓库提供游戏介绍、运行截图和 APK，不包含游戏源码、签名密钥或玩家数据。
 
-<!-- miaoge-release {"version":"1.6","versionCode":7,"sha256":"4337990e8be47f81df3506de4bc93fe3c72bde9d9691120805b7221f05c8c8cd","size":3348503} -->
+<!-- miaoge-release {"version":"1.7","versionCode":8,"sha256":"64f55ce253fd2087c6dff65dfc2216a5ea26410d55988e940e276364cde67e60","size":3348631} -->
